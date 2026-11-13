@@ -4,11 +4,11 @@ A REST API built with FastAPI and MongoDB.
 
 ## Tech Stack
 
-| Package         | Purpose                                |
-| --------------- | -------------------------------------- |
-| `fastapi`       | Build REST APIs                        |
-| `uvicorn`       | Run the FastAPI server                 |
-| `pymongo`       | Connect Python to MongoDB              |
+| Package | Purpose |
+| --- | --- |
+| `fastapi` | Build REST APIs |
+| `uvicorn` | Run the FastAPI server |
+| `pymongo` | Connect Python to MongoDB |
 | `python-dotenv` | Read environment variables from `.env` |
 
 ## Getting Started
