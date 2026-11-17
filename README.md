@@ -18,7 +18,7 @@ A REST API built with FastAPI and MongoDB.
 ```bash
 git clone https://github.com/sanju1098/python-fastapi.git
 cd fastapi-crud
-git checkout fastapi-crud
+git checkout fastapi-crud-prd
 ```
 
 ### 2. Create and activate a virtual environment
